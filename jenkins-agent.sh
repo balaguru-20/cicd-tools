@@ -12,3 +12,4 @@ xfs_growfs /var/tmp
 xfs_growfs /var
 
 yum install java-17-openjdk -y
+yum install nodejs -y
